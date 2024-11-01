@@ -1,4 +1,4 @@
-![banner](./banner.gif)
+![banner](./main-banner.gif)
 
 Subjects:
 ## TIN
