@@ -13,10 +13,10 @@
 <details>
 <summary><b>GUI</b></summary><br>
   
-| Project | Repository                                           |
-| ------: | :--------------------------------------------------- |
-|       1 | [gui-pro1](https://github.com/PJATK-s28476/gui-pro1) |
-|       2 | [gui-pro2](https://github.com/PJATK-s28476/gui-pro2) |
+| Project | Repository                                             |
+| ------: | :----------------------------------------------------- |
+|       1 | [gui-pro-1](https://github.com/PJATK-s28476/gui-pro-1) |
+|       2 | [gui-pro-2](https://github.com/PJATK-s28476/gui-pro-2) |
 
 </details>
 
