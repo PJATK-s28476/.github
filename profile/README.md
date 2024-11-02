@@ -62,6 +62,29 @@
 
 ### Semester 4
 
+
+<details>
+<summary><b>TPO</b></summary><br>
+  
+| Class  | Repository                                         |
+| -----: | :------------------------------------------------- |
+|      1 | [tpo-1](https://github.com/PJATK-s28476/tpo-1)     |
+|      2 | [tpo-2](https://github.com/PJATK-s28476/tpo-2)     |
+|    2-2 | [tpo-2-2](https://github.com/PJATK-s28476/tpo-2-2) |
+|      3 | [tpo-3](https://github.com/PJATK-s28476/tpo-3)     |
+|    3-2 | [tpo-3-2](https://github.com/PJATK-s28476/tpo-3-2) |
+|      4 | [tpo-4](https://github.com/PJATK-s28476/tpo-4)     |
+|    4-2 | [tpo-4-2](https://github.com/PJATK-s28476/tpo-4-2) |
+|      5 | [tpo-5](https://github.com/PJATK-s28476/tpo-5)     |
+|      6 | [tpo-6](https://github.com/PJATK-s28476/tpo-6)     |
+|      7 | [tpo-7](https://github.com/PJATK-s28476/tpo-7)     |
+|      8 | [tpo-8](https://github.com/PJATK-s28476/tpo-8)     |
+|      9 | [tpo-9](https://github.com/PJATK-s28476/tpo-9)     |
+|     10 | [tpo-10](https://github.com/PJATK-s28476/tpo-10)   |
+|     11 | [tpo-11](https://github.com/PJATK-s28476/tpo-11)   |
+
+</details>
+
 <details>
 <summary><b>APBD</b></summary><br>
   
@@ -97,6 +120,24 @@
 |     2 | [nai-mpp-2](https://github.com/PJATK-s28476/nai-mpp-2) |
 |     3 | [nai-mpp-3](https://github.com/PJATK-s28476/nai-mpp-3) |
 |     4 | [nai-mpp-4](https://github.com/PJATK-s28476/nai-mpp-4) |
+
+</details>
+
+<details>
+<summary><b>PSM</b></summary><br>
+  
+| Class  | Repository                                       |
+| -----: | :----------------------------------------------- |
+|      1 | [psm-1](https://github.com/PJATK-s28476/psm-1)   |
+|      2 | [psm-2](https://github.com/PJATK-s28476/psm-2)   |
+|      3 | [psm-3](https://github.com/PJATK-s28476/psm-3)   |
+|      4 | [psm-4](https://github.com/PJATK-s28476/psm-4)   |
+|      5 | -                                                |
+|      6 | -                                                |
+|      7 | [psm-7](https://github.com/PJATK-s28476/psm-7)   |
+|      8 | [psm-8](https://github.com/PJATK-s28476/psm-8)   |
+|      9 | [psm-9](https://github.com/PJATK-s28476/psm-9)   |
+|     10 | [psm-10](https://github.com/PJATK-s28476/psm-10) |
 
 </details>
 
