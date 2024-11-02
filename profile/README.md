@@ -8,7 +8,7 @@
 
 ## These are subjects that required coding
 
-### ✨ Semester 2
+### Semester 2
 
 <details>
 <summary><b>GUI</b></summary><br>
@@ -29,7 +29,7 @@
 
 </details>
 
-### ✨ Semester 3
+### Semester 3
 
 <details>
 <summary><b>SBD</b></summary><br>
@@ -60,7 +60,7 @@
 
 </details>
 
-### ✨ Semester 4
+### Semester 4
 
 
 <details>
@@ -141,7 +141,7 @@
 
 </details>
 
-### ✨ Semester 5
+### Semester 5
 
 <details>
 <summary><b>TIN</b></summary><br>
