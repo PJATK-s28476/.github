@@ -30,9 +30,10 @@
 |     1 | [byt-1](https://github.com/PJATK-s28476/byt-1) |
 |     2 | [byt-2](https://github.com/PJATK-s28476/byt-2) |
 |     3 | [byt-3](https://github.com/PJATK-s28476/byt-3) |
-|     4 | [byt-4](https://github.com/PJATK-s28476/byt-4) |
-|     5 | [byt-5](https://github.com/PJATK-s28476/byt-5) |
-|     6 | [byt-6](https://github.com/PJATK-s28476/byt-6) |
+
+| Project | Repository                                                             |
+|--------:| :--------------------------------------------------------------------- |
+|       1 | [byt-contenter-bot](https://github.com/PJATK-s28476/byt-contenter-bot) |
 
 </details>
 
@@ -45,8 +46,6 @@
 |     2 | [grk-2](https://github.com/PJATK-s28476/grk-2) |
 |     3 | [grk-3](https://github.com/PJATK-s28476/grk-3) |
 |     4 | [grk-4](https://github.com/PJATK-s28476/grk-4) |
-|     5 | [grk-5](https://github.com/PJATK-s28476/grk-5) |
-|     6 | [grk-6](https://github.com/PJATK-s28476/grk-6) |
 
 </details>
 
