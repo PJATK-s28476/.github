@@ -4,7 +4,7 @@
 
 ---
 
-# Welcome to my PJATK Organization
+# Welcome to my PJATK Organization!
 
 ## These are subjects that required coding
 
