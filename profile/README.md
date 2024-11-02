@@ -6,7 +6,7 @@
 
 # Welcome to my PJATK Organization
 ## Here are all my subjects
-### Semester 4
+### Semester 5
 
 <details>
 <summary><b>TIN</b></summary><br>
