@@ -141,6 +141,16 @@
 
 </details>
 
+<details>
+<summary><b>PPY</b></summary><br>
+
+| Project | Repository                                             |
+|--------:| :----------------------------------------------------- |
+|       1 | [ppy-pro-1](https://github.com/PJATK-s28476/ppy-pro-1) |
+|       2 | [ppy-pro-2](https://github.com/PJATK-s28476/ppy-pro-2) |
+
+</details>
+
 ### Semester 5
 
 <details>
