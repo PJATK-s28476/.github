@@ -6,7 +6,7 @@
 
 # Welcome to my PJATK Organization
 
-## Here are all my subjects
+## These are subjects that required coding
 
 ### Semester 2
 
