@@ -172,9 +172,10 @@
   
 | Class | Repository                                     |
 | ----: | :--------------------------------------------- |
-|     1 | [byt-1](https://github.com/PJATK-s28476/byt-1) |
-|     2 | [byt-2](https://github.com/PJATK-s28476/byt-2) |
-|     3 | [byt-3](https://github.com/PJATK-s28476/byt-3) |
+|     1 | -                                              |
+|     2 | -                                              |
+|     3 | -                                              |
+|     4 | [byt-4](https://github.com/PJATK-s28476/byt-4) |
 
 | Project | Repository                                                             |
 |--------:| :--------------------------------------------------------------------- |
