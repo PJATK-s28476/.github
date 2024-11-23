@@ -164,6 +164,7 @@
 |     4 | [tin-4](https://github.com/PJATK-s28476/tin-4) |
 |     5 | [tin-5](https://github.com/PJATK-s28476/tin-5) |
 |     6 | [tin-6](https://github.com/PJATK-s28476/tin-6) |
+|     7 | [tin-7](https://github.com/PJATK-s28476/tin-7) |
 
 </details>
 
