@@ -166,6 +166,10 @@
 |     6 | [tin-6](https://github.com/PJATK-s28476/tin-6) |
 |     7 | [tin-7](https://github.com/PJATK-s28476/tin-7) |
 
+| Project | Repository                                                             |
+|--------:| :--------------------------------------------------------------------- |
+|       1 | [tin-pro](https://github.com/PJATK-s28476/tin-pro) |
+
 </details>
 
 <details>
