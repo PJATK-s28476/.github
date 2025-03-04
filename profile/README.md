@@ -168,7 +168,7 @@
 
 | Project | Repository                                                             |
 |--------:| :--------------------------------------------------------------------- |
-|       1 | [tin-pro](https://github.com/PJATK-s28476/tin-pro) |
+|       1 | [tin-pro](https://github.com/PJATK-s28476/tin-pro)                     |
 
 </details>
 
@@ -213,3 +213,6 @@
 |     4 | [mas-4](https://github.com/PJATK-s28476/mas-4) |
 |     5 | [mas-5](https://github.com/PJATK-s28476/mas-5) |
 |     6 | [mas-6](https://github.com/PJATK-s28476/mas-6) |
+
+|       1 | [mas-pro](https://github.com/PJATK-s28476/mas-pro)                     |
+
