@@ -214,5 +214,7 @@
 |     5 | [mas-5](https://github.com/PJATK-s28476/mas-5) |
 |     6 | [mas-6](https://github.com/PJATK-s28476/mas-6) |
 
+| Project | Repository                                                             |
+|--------:| :--------------------------------------------------------------------- |
 |       1 | [mas-pro](https://github.com/PJATK-s28476/mas-pro)                     |
 
