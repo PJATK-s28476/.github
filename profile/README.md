@@ -216,5 +216,7 @@
 
 | Project | Repository                                                             |
 |--------:| :--------------------------------------------------------------------- |
-|       1 | [mas-pro](https://github.com/PJATK-s28476/mas-pro)                     |
+|     API | [mas-pro](https://github.com/PJATK-s28476/mas-pro-api)                 |
+|     GUI | [mas-pro](https://github.com/PJATK-s28476/mas-pro-gui)                 |
+
 
