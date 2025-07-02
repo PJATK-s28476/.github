@@ -212,7 +212,6 @@
 |     3 | [mas-3](https://github.com/PJATK-s28476/mas-3) |
 |     4 | [mas-4](https://github.com/PJATK-s28476/mas-4) |
 |     5 | [mas-5](https://github.com/PJATK-s28476/mas-5) |
-|     6 | [mas-6](https://github.com/PJATK-s28476/mas-6) |
 
 | Project | Repository                                                             |
 |--------:| :--------------------------------------------------------------------- |
