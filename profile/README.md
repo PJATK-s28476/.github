@@ -218,4 +218,19 @@
 |     API | [mas-pro-api](https://github.com/PJATK-s28476/mas-pro-api)             |
 |     GUI | [mas-pro-gui](https://github.com/PJATK-s28476/mas-pro-gui)             |
 
+<details>
+<summary><b>MIW</b></summary><br>
+  
+| Class | Repository                                     |
+| ----: | :--------------------------------------------- |
+|     1 | [miw-1](https://github.com/PJATK-s28476/mas-1) |
+|     2 | [miw-2](https://github.com/PJATK-s28476/mas-2) |
+|     3 | [miw-3](https://github.com/PJATK-s28476/mas-3) |
+|     4 | [miw-4](https://github.com/PJATK-s28476/mas-4) |
+|     5 | [miw-5](https://github.com/PJATK-s28476/mas-5) |
+|     6 | [miw-6](https://github.com/PJATK-s28476/mas-5) |
+
+| Project | Repository                                                             |
+|--------:| :--------------------------------------------------------------------- |
+|       1 | [miw-pro](https://github.com/PJATK-s28476/miw-pro)                     |
 
